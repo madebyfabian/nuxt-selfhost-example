@@ -1,5 +1,3 @@
 <template>
-  <div>
-    <NuxtWelcome />
-  </div>
+	<div>This is my first app deployed with coolify.</div>
 </template>
